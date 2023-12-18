@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2em;
+    }
+
+    @media (min-width: 400px) {
+      h1 {
+        font-size: 1.5em;
+      }
+    }
+    @media (min-width: 600px) {
+      h1 {
+        font-size: 2em;
+      }
+    }
+
+    @media (min-width: 900px) {
+      h1 {
+        font-size: 3em;
+      }
+    }
+
+
+
+
+
+
+h2 {
+color: green;
+font-size: 180%;
+}
+p1 {
+font-family: Roman;
+font-size: 150%;
+color: brown;
+}
+
+p2 {
+font-family: Roman;
+font-size: 130%;
+color: gray;
+}
+p3 {
+font-family: Roman, fantasy, Luminari;
+font-size: 130%;
+color: purple;
+}
+p4 {
+font-family: Roman, fantasy, Luminari;
+font-size: 250%;
+color: purple;
+}
+p5 {
+font-family: Roman, fantasy, Luminari;
+font-size: 160%;
+color: navy;
+}
+p6 {
+font-family: Roman, fantasy, Luminari;
+font-size: 140%;
+color: navy;
+}
+p7 {
+font-family: Roman, fantasy, Luminari;
+font-size: 140%;
+color: green;
+background: LightGray;
+}
+p8 {
+font-family: Roman, fantasy, Luminari;
+font-size: 140%;
+color: red;
+background: LightGray;
+ }
+</style>
+</head>
+<body>
+
